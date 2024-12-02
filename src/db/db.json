@@ -1,121 +1,65 @@
 [
   {
-    "id": "fd890f4c-18d3-4172-b8d9-457e09d29437",
-    "name": "Miss Rosalie Jacobi",
-    "phone": "(485) 925-5202 x89380",
-    "email": "Adele_Collier-MacGyver74@yahoo.com",
-    "job": "Product Group Orchestrator"
+    "id": "b4395337-32b7-42f6-9474-ad03cf756991",
+    "name": "Ellis Dooley",
+    "phone": "224-807-7602 x1407",
+    "email": "Albertha91@yahoo.com",
+    "job": "Corporate Mobility Specialist"
   },
   {
-    "id": "2db97ce1-2eeb-4b59-8c68-4b1561fdfabb",
-    "name": "Arnold Howe",
-    "phone": "400-669-3504 x464",
-    "email": "Rocky.Yundt@hotmail.com",
-    "job": "Legacy Infrastructure Assistant"
+    "id": "02134b31-e2d0-4baa-95a2-3f6e146805e7",
+    "name": "Rodney Beer III",
+    "phone": "(301) 748-8920",
+    "email": "Garry89@hotmail.com",
+    "job": "Internal Metrics Producer"
   },
   {
-    "id": "fd653061-28f1-49de-8aa7-673493604fae",
-    "name": "Mr. Marlon Pagac Jr.",
-    "phone": "1-457-221-7825 x21617",
-    "email": "Herta.OConner@gmail.com",
-    "job": "Principal Accountability Assistant"
+    "id": "3a13a090-fc37-48c3-bf16-bbd922e536c5",
+    "name": "Brandy McClure",
+    "phone": "1-328-406-4349 x78864",
+    "email": "Rosalind.Rogahn-Howell@yahoo.com",
+    "job": "Product Directives Administrator"
   },
   {
-    "id": "af929e26-6e7f-4db3-8f72-c361b08f3f95",
-    "name": "Gwen Bernhard",
-    "phone": "1-278-270-1330 x188",
-    "email": "Angelica90@hotmail.com",
-    "job": "Senior Tactics Director"
+    "id": "20f4e34b-83ca-4a1a-a2ab-55c16c622fd8",
+    "name": "Larry Trantow",
+    "phone": "1-834-955-4868 x771",
+    "email": "Fabian.Stamm89@yahoo.com",
+    "job": "International Intranet Architect"
   },
   {
-    "id": "ca9904dc-2c9b-4b35-9273-aca0b1ea08e9",
-    "name": "Leslie Bergstrom",
-    "phone": "(508) 907-0160 x6571",
-    "email": "Beatrice_Hilll@yahoo.com",
-    "job": "International Paradigm Consultant"
+    "id": "32ad2e7f-ef6c-4f86-9c0e-c1c81b336adf",
+    "name": "Kate Yost III",
+    "phone": "(326) 778-6656 x796",
+    "email": "Enola.Hettinger24@gmail.com",
+    "job": "Lead Assurance Facilitator"
   },
   {
-    "id": "ddb5319f-6f42-4efa-9f4d-4328cc7e70e5",
-    "name": "Mindy Conn",
-    "phone": "(480) 859-5965 x41223",
-    "email": "Effie.Braun79@gmail.com",
-    "job": "Investor Mobility Analyst"
+    "id": "fc7fafff-646e-4e9e-8432-756a6337ac10",
+    "name": "Tommy Feeney",
+    "phone": "836-696-6026",
+    "email": "Jose_Brekke@gmail.com",
+    "job": "Lead Tactics Associate"
   },
   {
-    "id": "e2f31506-09c7-444e-85c0-74511460ada9",
-    "name": "Hope Metz",
-    "phone": "(335) 217-5830 x40545",
-    "email": "Keyon_Kautzer93@gmail.com",
-    "job": "Direct Response Architect"
+    "id": "f5dd3db7-b351-41e3-908a-c37311b16058",
+    "name": "Ms. Natasha Reichert",
+    "phone": "(347) 560-0164",
+    "email": "Morris.Littel92@yahoo.com",
+    "job": "Forward Factors Coordinator"
   },
   {
-    "id": "8b9fdccf-ea13-4d33-a77a-7cb6db819d24",
-    "name": "Ashley Hessel",
-    "phone": "451.357.1162",
-    "email": "Patsy12@hotmail.com",
-    "job": "District Creative Specialist"
+    "id": "aef2c004-902a-49bc-9779-0abd406c1a45",
+    "name": "Paulette Ondricka",
+    "phone": "452-462-3310 x59453",
+    "email": "Elmore_Koch@gmail.com",
+    "job": "Lead Branding Manager"
   },
   {
-    "id": "eca278fa-bd3f-43c4-ad99-e06639eb9398",
-    "name": "Marilyn O'Hara",
-    "phone": "(486) 465-7201 x2260",
-    "email": "Mack_Terry@gmail.com",
-    "job": "Regional Factors Executive"
-  },
-  {
-    "id": "bcd5d8ee-905f-4a51-9f1e-f4d742507c49",
-    "name": "Jody Bogisich",
-    "phone": "(795) 680-4807 x71348",
-    "email": "Bart_Hegmann@gmail.com",
-    "job": "Corporate Assurance Developer"
-  },
-  {
-    "id": "addc2584-3c3a-449a-aa9b-aa42c82b5b27",
-    "name": "Mr. Phillip Larson",
-    "phone": "(531) 899-3322 x7208",
-    "email": "Julio23@hotmail.com",
-    "job": "Central Quality Producer"
-  },
-  {
-    "id": "23a28ac2-973f-4ec9-bd20-b76259637c73",
-    "name": "Claudia Koss",
-    "phone": "618-676-5906 x81648",
-    "email": "Carolina34@hotmail.com",
-    "job": "Chief Optimization Manager"
-  },
-  {
-    "id": "2bef5786-68b8-4432-9532-2b613bbf78d7",
-    "name": "Mr. Cory Hane",
-    "phone": "860-997-1733",
-    "email": "Susanna_Erdman79@gmail.com",
-    "job": "Customer Paradigm Assistant"
-  },
-  {
-    "id": "0a8ed201-575f-45b9-a1b4-8da750a1860f",
-    "name": "Whitney Davis",
-    "phone": "1-320-368-4447 x42743",
-    "email": "Eleanora_Huels@hotmail.com",
-    "job": "Dynamic Mobility Architect"
-  },
-  {
-    "id": "ae4dae7d-20c6-46d7-99a2-79fc7a5c0490",
-    "name": "Joyce McDermott",
-    "phone": "1-695-686-2283 x4829",
-    "email": "Felton.Champlin@hotmail.com",
-    "job": "Global Identity Orchestrator"
-  },
-  {
-    "id": "a822f5e7-e03c-470a-be2f-8f2a5a817e5d",
-    "name": "Casey Huels",
-    "phone": "320-711-6948",
-    "email": "Kali_Hudson@yahoo.com",
-    "job": "Principal Intranet Strategist"
-  },
-  {
-    "id": "1f775164-a8b9-42b2-af82-023d3a10a84a",
-    "name": "Mr. Ignacio Kunze",
-    "phone": "242-294-6049 x86607",
-    "email": "Marty_Jacobi8@hotmail.com",
-    "job": "Legacy Quality Orchestrator"
+    "id": "1817fe9b-4c64-448b-834d-bf0c8543178d",
+    "name": "Joey Hagenes",
+    "phone": "487.783.9936 x7125",
+    "email": "Penelope_Franecki@yahoo.com",
+    "job": "Central Creative Supervisor"
   }
 ]
